@@ -4,8 +4,18 @@ public class B1 {
 		{
 			System.out.println("Basce class");
 		}
-
+	}
+		
+		
+		private void selectdrop() {
+		     System.out.println("implement");
+	   }
+	
+	
+	
+	
 	}
 
-}
+
+
   
