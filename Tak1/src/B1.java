@@ -4,8 +4,18 @@ public class B1 {
 		{
 			System.out.println("Basce class");
 		}
+	}
+		 public void selectdrop() {
+		     System.out.println("implement");
+	   }
+		 public void select() {
+		System.out.println("user create successfully");
+
+		}
+
+	
 
 	}
 
-}
+
   
